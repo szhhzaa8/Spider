@@ -1,0 +1,121 @@
+{
+    "Table": [
+        {
+            "rowcount": 14
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 1,
+            "storeName": "云上",
+            "addressDetail": "贵阳国际会议展览中心84717783",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 2,
+            "storeName": "贵阳北站",
+            "addressDetail": "火车北站候车层夹层商业J07铺",
+            "pro": null,
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 3,
+            "storeName": "贵阳数博万达",
+            "addressDetail": "北京西路66号万达广场1031号商铺",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 4,
+            "storeName": "贵阳数博万达",
+            "addressDetail": "北京西路66号万达广场1031号商铺",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 5,
+            "storeName": "金融七号",
+            "addressDetail": "林城路贵阳国际金融中心一期商务区项目7号楼1层1号",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 6,
+            "storeName": "贵阳万象汇",
+            "addressDetail": "兴筑西路88号贵阳万象汇L458商铺",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 7,
+            "storeName": "金融七号",
+            "addressDetail": "林城路贵阳国际金融中心一期商务区项目7号楼1层1号",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 8,
+            "storeName": "贵阳万象汇",
+            "addressDetail": "兴筑西路88号贵阳万象汇L458商铺",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 9,
+            "storeName": "贵阳机场T3",
+            "addressDetail": "龙洞堡国际机场T3航站楼出发层三层(24号门旁)",
+            "pro": null,
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 10,
+            "storeName": "贵阳机场T3外卖点",
+            "addressDetail": "T3CF3-01以及T3CF4-59龙洞堡国际机场T3航站楼出发层三层及四层商业区域餐饮类别店铺：",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 11,
+            "storeName": "贵阳机场T3",
+            "addressDetail": "龙洞堡国际机场T3航站楼出发层三层(24号门旁)",
+            "pro": null,
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 12,
+            "storeName": "贵阳机场T3外卖点",
+            "addressDetail": "T3CF3-01以及T3CF4-59龙洞堡国际机场T3航站楼出发层三层及四层商业区域餐饮类别店铺：",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 13,
+            "storeName": "新贵阳东站",
+            "addressDetail": "贵阳东站G2-02商业点位",
+            "pro": "火车站店,手机点餐",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        },
+        {
+            "rownum": 14,
+            "storeName": "百胜餐饮(成都)有限公司新贵阳东站",
+            "addressDetail": "贵阳东站G2-02商业点位",
+            "pro": "火车站店",
+            "provinceName": "贵州省",
+            "cityName": "贵阳市"
+        }
+    ]
+}
