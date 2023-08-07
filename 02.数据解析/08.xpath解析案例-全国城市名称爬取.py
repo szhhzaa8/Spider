@@ -21,7 +21,7 @@ if __name__ == "__main__":
         city_name = li.xpath('./a/text()')[0]
         all_city_names.append(city_name)
 
-    print(all_city_names, len(all_city_names)
+    print(all_city_names, len(all_city_names))
 
     '''
     同时获取热门城市和全部城市
